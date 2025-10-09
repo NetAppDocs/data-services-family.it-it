@@ -1,7 +1,7 @@
 ---
 product-family:
   title: Servizi dati NetApp
-  lead: Accedi ai servizi dati NetApp tramite la console NetApp per proteggere e proteggere
+  lead: Accedi ai servizi dati NetApp tramite la NetApp Console per proteggere e proteggere
     la tua infrastruttura dati.
   summary: Accedi ai servizi dati NetApp tramite la console NetApp per proteggere
     e proteggere la tua infrastruttura dati.
@@ -15,7 +15,7 @@ product-family:
     tags: protection
   - title: Governance
     tags: governance
-  - title: Console NetApp
+  - title: NetApp Console
     tags: console
   - title: Gestione dello storage
     tags: storage-management
@@ -27,10 +27,10 @@ product-family:
     url: "../console-relnotes/index.html"
     summary: Scopri le novità di NetApp Console e NetApp Data Services.
     tags: all
-  - title: Console NetApp
+  - title: NetApp Console
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
-    summary: Utilizza la console NetApp per amministrare la gestione delle identità
+    summary: Utilizza la NetApp Console per amministrare la gestione delle identità
       e degli accessi, distribuire agenti e altro ancora.
     tags: all,console
   - title: Gestione dello storage
@@ -90,5 +90,5 @@ product-family:
     icon: "./media/icon-workloads.png"
     url: "../workload-family"
     summary: Automatizza il provisioning, la governance e il ciclo di vita per FSx
-      per ONTAP.  Esplora i risparmi sui costi e la gestione avanzata.
+      per ONTAP. Esplora i risparmi sui costi e la gestione avanzata.
     tags: all,workloads
