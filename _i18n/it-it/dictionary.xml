@@ -29,6 +29,7 @@
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replicazione</block>
   <block id="259adf187c730c8572ec5395ced47b12" category="sidebar">Replicare i dati per il backup, il ripristino di emergenza e la migrazione tra sistemi ONTAP on-premise e cloud.</block>
   <block id="082a2f81a104214877c2e8d8e3c568c0" category="sidebar">Caching del volume</block>
-  <block id="9abc8859c5a216b452e05e6972db99af" category="sidebar">Crea un volume di cache scrivibile per velocizzare l'accesso ai dati o per scaricare il traffico dai volumi a cui si accede più frequentemente.</block>
-  <block id="c1b0831c02312777a947c0ce92d1c783" category="sidebar">Automatizza il provisioning, la governance e il ciclo di vita per FSx per ONTAP. Esplora i risparmi sui costi e la gestione avanzata.</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Crea un volume di cache scrivibile per velocizzare l'accesso ai dati o alleggerire il traffico sui volumi a cui si accede frequentemente.</block>
+  <block id="22e5a7336ebe77138f0282cedcb069ab" category="sidebar">Workload Factory</block>
+  <block id="99af4e7b7cb3dc5451ee2b26742e828a" category="sidebar">Gestisci i carichi di lavoro in esecuzione su Amazon FSx for NetApp ONTAP, Google Cloud NetApp Volumes e Oracle Cloud Infrastructure NetApp Storage Service.</block>
 </blocks>

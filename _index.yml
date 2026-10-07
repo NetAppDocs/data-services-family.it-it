@@ -73,10 +73,11 @@ product-family:
   - title: Caching del volume
     url: "../console-volume-caching/index.html"
     summary: Crea un volume di cache scrivibile per velocizzare l'accesso ai dati
-      o per scaricare il traffico dai volumi a cui si accede più frequentemente.
+      o alleggerire il traffico sui volumi a cui si accede frequentemente.
     tags: all,mobility
-  - title: Carichi di lavoro
-    url: "../workload-family"
-    summary: Automatizza il provisioning, la governance e il ciclo di vita per FSx
-      per ONTAP. Esplora i risparmi sui costi e la gestione avanzata.
+  - title: Workload Factory
+    icon: "./media/icon-workloads.png"
+    url: "../data-services-workloads/index.html"
+    summary: Gestisci i carichi di lavoro in esecuzione su Amazon FSx for NetApp ONTAP,
+      Google Cloud NetApp Volumes e Oracle Cloud Infrastructure NetApp Storage Service.
     tags: all,workloads
